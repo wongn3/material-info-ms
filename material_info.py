@@ -25,7 +25,7 @@ MATERIAL_DESCRIPTIONS = {
 
     # secondary materials
     'wet_sand': 'An even bigger pain to get rid of from your clothes than regular sand.',
-    'mud': 'Don't step in it. It might not be mud.',
+    'mud': "Don't step in it. It might not be mud.",
 }
 
 VALID_MATERIALS = {
