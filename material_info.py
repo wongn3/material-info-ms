@@ -14,7 +14,7 @@ MATERIAL_CATEGORIES = {
 
     # secondary materials
     'wet_sand': 'solid',
-    'ash': 'granular',
+    'mud': 'solid',
 }
 
 MATERIAL_DESCRIPTIONS = {
@@ -25,7 +25,7 @@ MATERIAL_DESCRIPTIONS = {
 
     # secondary materials
     'wet_sand': 'An even bigger pain to get rid of from your clothes than regular sand.',
-    'ash': 'Hopefully not made from remains. Could be useful for making cement.',
+    'mud': 'Don't step in it. It might not be mud.',
 }
 
 VALID_MATERIALS = {
@@ -36,7 +36,7 @@ VALID_MATERIALS = {
 
     # secondary materials
     'wet_sand',
-    'ash',
+    'mud',
 }
 
 while True:
